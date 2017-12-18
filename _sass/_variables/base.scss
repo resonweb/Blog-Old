@@ -189,18 +189,18 @@ $pagination-active-border       : $grey-light;
 // Layout sizes
 // --------------------------------------------------
 
-$main-desktop                   : 960px;
+$main-desktop                   : 1200px;
 $main-desktop-large             : 1200px;
 
-$content-desktop                : 700px;
+$content-desktop                : 900px;
 $content-desktop-large          : 900px;
-$content-desktop-padding        : 40px;
+$content-desktop-padding        : 0px;
 
 $sidebar-desktop                : 240px;
 
 $footer-height                  : 50px;
 
-$gap-between-main-and-footer    : 100px;
+$gap-between-main-and-footer    : 50px;
 
 
 
@@ -256,7 +256,7 @@ $post-copyright : (
 $posts-collapse-left            : 55px;
 $posts-collapse-left-mobile     : 5px;
 
-$read-more-color                : white;
+$read-more-color                : orange;
 $read-more-font-size            : 14px;
 $read-more-bg-color             : $black-deep;
 $read-more-border-radius        : 0;

@@ -62,7 +62,7 @@
   box-sizing: border-box;
   padding: $content-desktop-padding;
   width: $content-desktop;
-  background: white;
+/*  background: white;*/
   min-height: 700px;
   box-shadow: $box-shadow-inner;
   border-radius: $border-radius-inner;
@@ -127,3 +127,9 @@
     padding-right: 260px;
   }
 }
+
+article { 
+	background: #FFFFFF;
+	padding: 40px 5px 0px;
+	margin: 10px 0px 0px; 
+ }
